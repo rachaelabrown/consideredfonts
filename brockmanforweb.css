@@ -1,0 +1,9 @@
+                            /*latin-ext*/
+                            @font-face {
+                                font-family: 'brockmann-medium-webfont';
+                                font-style: normal;
+                                font-weight: 200;
+                                src: url('https://befonts.com/wp-content/uploads/2023/07/brockmann-medium-webfont.ttf') format('woff'),
+                                url('https://befonts.com/wp-content/uploads/2023/07/brockmann-medium-webfont.ttf') format('truetype');
+                                font-display: swap;
+                            }
